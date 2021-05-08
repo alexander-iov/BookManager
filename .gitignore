@@ -1,0 +1,10 @@
+HELP.md
+.mvn
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
